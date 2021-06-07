@@ -1,0 +1,31 @@
+C:\Users\Michael\source\repos\NonogramGen\bin\Debug\net5.0-windows\NonogramGen.exe
+C:\Users\Michael\source\repos\NonogramGen\bin\Debug\net5.0-windows\NonogramGen.deps.json
+C:\Users\Michael\source\repos\NonogramGen\bin\Debug\net5.0-windows\NonogramGen.runtimeconfig.json
+C:\Users\Michael\source\repos\NonogramGen\bin\Debug\net5.0-windows\NonogramGen.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\NonogramGen\bin\Debug\net5.0-windows\NonogramGen.dll
+C:\Users\Michael\source\repos\NonogramGen\bin\Debug\net5.0-windows\ref\NonogramGen.dll
+C:\Users\Michael\source\repos\NonogramGen\bin\Debug\net5.0-windows\NonogramGen.pdb
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.Form1.resources
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.AssemblyInfo.cs
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.dll
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\ref\NonogramGen.dll
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.pdb
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.genruntimeconfig.cache
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Michael\source\repos\NonogramGen\obj\Debug\net5.0-windows\NonogramGen.csproj.ResolveComReference.cache
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.csproj.AssemblyReference.cache
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.csproj.ResolveComReference.cache
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.Form1.resources
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.csproj.GenerateResource.cache
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.AssemblyInfoInputs.cache
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.AssemblyInfo.cs
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.csproj.CoreCompileInputs.cache
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.dll
+D:\Новая папка\obj\Debug\net5.0-windows\ref\NonogramGen.dll
+D:\Новая папка\obj\Debug\net5.0-windows\NonogramGen.pdb
